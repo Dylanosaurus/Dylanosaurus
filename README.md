@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Godot</b>
+- <b>VR Godot</b>
   - [7-DOF Spindle Implementation](https://github.com/Dylanosaurus/7-DOF-Spindle)
   - [Skiing Simulator](https://github.com/Dylanosaurus/Bird-Simulator)
-  - [VR Bird Simulator](https://github.com/Dylanosaurus/7-DOF-Spindle)
+  - [Bird Simulator](https://github.com/Dylanosaurus/7-DOF-Spindle)
 - <b>Figma</b>
   - [Roommate Wizard File](https://www.figma.com/file/ab7jqWevbPjnmjzOOEEKDy/Roommate-Wizard?type=design&node-id=0%3A1&mode=design&t=aZTSwcTB9hnJIMiG-1)
   - [Roommate Wizard Demo](https://www.figma.com/proto/ab7jqWevbPjnmjzOOEEKDy/Roommate-Wizard?type=design&node-id=357-1164&scaling=scale-down&page-id=0%3A1&starting-point-node-id=357%3A1164)
