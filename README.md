@@ -6,6 +6,9 @@
 - [<b>Handshake</b>](https://umn.joinhandshake.com/stu/users/25910019)
 - <b>blund013@umn.edu</b>
 
+<h2>Languages Known</h2>
+Python - Java - GDScript - C++ - C - OCaml - TypeScript - SQL - Dart - HTML - CSS
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>VR Godot</b>
