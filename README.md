@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dylan! <br/>Certified "Anything Graphics" Enthusiast</h1>
+<h1>Hi, I'm Dylan Blundell! <br/>Certified "Anything Graphics" Enthusiast</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
