@@ -38,7 +38,12 @@ Python - Java - GDScript - C++ - C - OCaml - TypeScript - SQL - Dart - HTML - CS
       </td>
     </tr>
   </table>
-    
+  <h3><a href="https://github.com/Dylanosaurus/processing_heatmap/tree/main">Temperature Visualization of US Cities Heatmap</a></h3>
+    <ul>
+      <li>Program that displays the temperature of cities throughout the year via a heatmap. </li>
+    </ul>
+    <br>
+    <img  height="200" alt="Heatmap of Cities" src="https://github.com/Dylanosaurus/processing_heatmap/blob/main/hm1.png?raw=true"/> 
   <h3>Edge Detection of Images</h3>
     <ul>
       <li>Individual pixel grayscale based on the difference (ΔG) between the min and max grayscale of surrounding pixels.</li>
