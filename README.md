@@ -101,6 +101,41 @@ Python - Java - GDScript - C++ - C - OCaml - TypeScript - SQL - Dart - HTML - CS
     <img height="200" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/b3.png?raw=true"/>
   <h3><a href="https://csci-4611-fall-2023.github.io/assignment-6-Dylanosaurus/">3D Harold and the Purple Crayon Game</a></h3>
     <img height="200" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/h2.png?raw=true"/>
+
+<h2>Virtual Reality (Godot)</h2>
+  <h3>Skiing Simulator</h3>
+    Lean-directed steering to hit all the flags and beat the clock!<br>
+    (View and Hand-Directed used in-between skiing)<br>
+    <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/ss1.png?raw=true"/>
+    
+  <h3>Bird Flight Simulator (1 partner)</h3>
+    No more need for the Wright brothers when you can fly around from the comfort of your own home!<br>
+    Live out your bird-related dreams by flapping the controllers, picking up seeds and worms with your <br>
+    headset-mounted beak, and using the talons below you to carry twigs to your very own nest.<br>
+    <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/bs1.png?raw=true"/>
+
+  <h3>7-DOF Spindle Implementation</h3>
+    Rotate, translate, and scale objects grabbed with the spindle<br>
+    <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/dofs1.png?raw=true"/>
+
+
+<h2>Figma</h2>
+  <h3>Roommate Finder App (5 partners)</h3>
+    <b><a href="https://www.figma.com/file/ab7jqWevbPjnmjzOOEEKDy/Roommate-Wizard?type=design&node-id=0%3A1&mode=design&t=aZTSwcTB9hnJIMiG-1">Roommate Wizard File</a></b><br>
+    <b><a href="https://www.figma.com/proto/ab7jqWevbPjnmjzOOEEKDy/Roommate-Wizard?type=design&node-id=357-1164&scaling=scale-down&page-id=0%3A1&starting-point-node-id=357%3A1164">Roommate Wizard Demo</a></b><br>
+    <div>
+      <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/rw3.png?raw=true"/>
+      <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/rw1.png?raw=true"/>
+      <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/rw2.png?raw=true"/>
+    </div>
+  
+  <h3>Lego Collection App</h3>
+    <b><a href="https://www.figma.com/file/CuQ7f1OATkUJAjs45uJWk4/BrickComplete?type=design&mode=design&t=8icT12NF7xoY6Vcc-1">BrickComplete File</a></b><br>
+    <b><a href="https://www.figma.com/proto/CuQ7f1OATkUJAjs45uJWk4/BrickComplete?type=design&t=rpJyCi1Wt21XWkmn-1&scaling=scale-down&page-id=0%3A1&node-id=20-249&starting-point-node-id=24%3A482&mode=design">BrickComplete Demo</a></b><br>
+    <div>
+      <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/bc2.png?raw=true"/>
+      <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/bc1.png?raw=true"/>
+    </div>
    
 <h2>C++</h2>
   <h3>PPM Image Resizing Program</h3>
@@ -155,41 +190,6 @@ Python - Java - GDScript - C++ - C - OCaml - TypeScript - SQL - Dart - HTML - CS
     </div>
   <h3><a href="https://www.youtube.com/watch?v=EFwYsec_Xv0">Uber Simulator with Mario Powerups</a> (3 partners)</h3>
     <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/sim1.png?raw=true"/>
-
-<h2>Virtual Reality (Godot)</h2>
-  <h3>Skiing Simulator</h3>
-    Lean-directed steering to hit all the flags and beat the clock!<br>
-    (View and Hand-Directed used in-between skiing)<br>
-    <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/ss1.png?raw=true"/>
-    
-  <h3>Bird Flight Simulator (1 partner)</h3>
-    No more need for the Wright brothers when you can fly around from the comfort of your own home!<br>
-    Live out your bird-related dreams by flapping the controllers, picking up seeds and worms with your <br>
-    headset-mounted beak, and using the talons below you to carry twigs to your very own nest.<br>
-    <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/bs1.png?raw=true"/>
-
-  <h3>7-DOF Spindle Implementation</h3>
-    Rotate, translate, and scale objects grabbed with the spindle<br>
-    <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/dofs1.png?raw=true"/>
-
-
-<h2>Figma</h2>
-  <h3>Roommate Finder App (5 partners)</h3>
-    <b><a href="https://www.figma.com/file/ab7jqWevbPjnmjzOOEEKDy/Roommate-Wizard?type=design&node-id=0%3A1&mode=design&t=aZTSwcTB9hnJIMiG-1">Roommate Wizard File</a></b><br>
-    <b><a href="https://www.figma.com/proto/ab7jqWevbPjnmjzOOEEKDy/Roommate-Wizard?type=design&node-id=357-1164&scaling=scale-down&page-id=0%3A1&starting-point-node-id=357%3A1164">Roommate Wizard Demo</a></b><br>
-    <div>
-      <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/rw3.png?raw=true"/>
-      <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/rw1.png?raw=true"/>
-      <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/rw2.png?raw=true"/>
-    </div>
-  
-  <h3>Lego Collection App</h3>
-    <b><a href="https://www.figma.com/file/CuQ7f1OATkUJAjs45uJWk4/BrickComplete?type=design&mode=design&t=8icT12NF7xoY6Vcc-1">BrickComplete File</a></b><br>
-    <b><a href="https://www.figma.com/proto/CuQ7f1OATkUJAjs45uJWk4/BrickComplete?type=design&t=rpJyCi1Wt21XWkmn-1&scaling=scale-down&page-id=0%3A1&node-id=20-249&starting-point-node-id=24%3A482&mode=design">BrickComplete Demo</a></b><br>
-    <div>
-      <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/bc2.png?raw=true"/>
-      <img height="300" src="https://github.com/Dylanosaurus/Dylanosaurus/blob/main/Project%20Pictures/bc1.png?raw=true"/>
-    </div>
 
 <h2> 🤳 Connect with me:</h2>
 
