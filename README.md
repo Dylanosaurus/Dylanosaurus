@@ -1,8 +1,6 @@
-<h1>Hi, I'm Dylan Blundell! <br/>Interaction & Design Enthusiast</h1>
+<h1>Hi, I'm Dylan B! <br/>Interaction & Design Enthusiast</h1>
 
 <h2> 🤳 Connect with me:</h2>
-
-- [<b>LinkedIn</b>](https://www.linkedin.com/in/dylan-blundell-2b5a421b9/)
 - [<b>Handshake</b>](https://umn.joinhandshake.com/stu/users/25910019)
 - <b>blund013@umn.edu</b>
 
